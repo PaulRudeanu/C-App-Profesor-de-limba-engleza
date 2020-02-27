@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyThesis_Login_And_Registration.Adjectives" Collapsed="true">
+    <Position X="6.25" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/yAAAJQFsSDAARCAUgGJBCBCIIAAACBCECIokAAYALU=</HashCode>
+      <FileName>Adjectives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.Articles" Collapsed="true">
+    <Position X="6.25" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/xAQAJQFsiDAQf8QQgGJBCACAYAAICBFACIokAAcCDk=</HashCode>
+      <FileName>Articles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.ConditionalSentences" Collapsed="true">
+    <Position X="6.25" Y="8.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/wAAEJQBsCiIABBAAgCAICDC8I8BACDCACIAkAQcgDc=</HashCode>
+      <FileName>ConditionalSentences.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.GerundAndInfinitive" Collapsed="true">
+    <Position X="6.25" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/yAQAJQBsyCAARSAEoCABCBCIYAAICBCEGIAkAAcCLU=</HashCode>
+      <FileName>GerundAndInfinitive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.GrammarExercises" Collapsed="true">
+    <Position X="7.25" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAhEbCQIpAADESAAAQCCIBAERCAQABCDQAAAKQ=</HashCode>
+      <FileName>GrammarExercises.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.Leaderboard" Collapsed="true">
+    <Position X="4.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAABECCQAJAEAACAAAACAIgAAACAAAAAAQAAAIA=</HashCode>
+      <FileName>Leaderboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.LoginForm" Collapsed="true">
+    <Position X="10" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAQBECCQABAAQACAAAASAIAUAAAAAQEAAQIAAIA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.MainForm" Collapsed="true">
+    <Position X="7" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBECCQgJoAAACDEAAGAYAAAQAAAAAAAQGAAIA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.NounsApostrophe" Collapsed="true">
+    <Position X="6.25" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/wAQAJQBsiDAARQQAgCABAACAYAAACBEAGIggAAYCDk=</HashCode>
+      <FileName>NounsApostrophe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.NounsCapitalization" Collapsed="true">
+    <Position X="6.25" Y="11" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/wAAEJQBsCiIABBAAgCAICDC8I8BACDCACIAkQQcgDc=</HashCode>
+      <FileName>NounsCapitalization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.PhrasalVerbs" Collapsed="true">
+    <Position X="10.75" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/wAQAJQBsiDAARQQAgCABAACAYAAACBEAGIogAAcCDk=</HashCode>
+      <FileName>PhrasalVerbs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.Pronouns" Collapsed="true">
+    <Position X="10.75" Y="11" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/yAAEJQBsSiIABDAEgCAICDC8I8BAACCECIAkAQIgLc=</HashCode>
+      <FileName>Pronouns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.RegistrationForm" Collapsed="true">
+    <Position X="7.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AwIQAFwBlCSAABAAIEKAAQASAIIAAIBAAQSQoQIgAAE=</HashCode>
+      <FileName>RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.TensesPresentPerfect" Collapsed="true">
+    <Position X="10.75" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/yAAAJQBsSCAARCAEgCABCBCIIAAAAACECIAkAAIALU=</HashCode>
+      <FileName>TensesPresentPerfect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.UserManual" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABECCQAIAAAACAoAACAIAAAAAAAAAAAQAAAIA=</HashCode>
+      <FileName>UserManual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.VerbsIrregularForm" Collapsed="true">
+    <Position X="10.75" Y="8.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/wAAAJQBsCCAARAAAgCABCACAIAAAAACACIAkAH4hzU=</HashCode>
+      <FileName>VerbsIrregularForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.Vocabulary" Collapsed="true">
+    <Position X="6.25" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABBABkCCAAQAAAAKAAEkCEYAEACAAADABtSAQAEE=</HashCode>
+      <FileName>Vocabulary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.VocabularyHelp" Collapsed="true">
+    <Position X="8.5" Y="11.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABkCCAAAAAAACAAEkCAYAMASAAAHABlSAQgAk=</HashCode>
+      <FileName>VocabularyHelp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.WordOrderInAffirmative" Collapsed="true">
+    <Position X="10.75" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/zkHRpHBmSCQm7znFICYwb9DOM074P7n/HAf8753RrU=</HashCode>
+      <FileName>WordOrderInAffirmative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyThesis_Login_And_Registration.WordOrderInPassive" Collapsed="true">
+    <Position X="10.75" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>/zkGRpFBmSCAkxznFoCYwa9DKM074PLj/HAf87x1RrU=</HashCode>
+      <FileName>WordOrderInPassive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="8.75" Y="6.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

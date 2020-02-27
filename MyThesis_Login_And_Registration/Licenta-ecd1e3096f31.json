@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "licenta-242714",
+  "private_key_id": "ecd1e3096f31a1fd0e07885081f52bec0bf868dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIAcKL/k/9REOb\neshJNmUu5bFU+auagy7vLmO5xIGCI9LfhtBz24wbgTaCufirUspHbN8xryNqLUvF\n5x6mHu1m4Ke+hlbeLPH/Pj12JbkJVzif727ZyFhK7h1eqKjPHB9m+/t3T0YFAASS\nDo6WynSSGF0FTtANPUXb7kghY5bF4EcBCeD5wgMuXp+gUy61Fx5CH3lfK19xeew8\nUt3D95vjYp7aCNeyfyMCcIG9bmdTNU0LS2Pvxbpa2l9XsLfWjyrfWV+RvCbWJ5Go\nWIEPlYq3UFJBhROlm5xDY0oaSYQxhBtJUQhI1+r87IDdSWwsoMS/jD3nhRsT4gqD\nxGAjVSIZAgMBAAECggEAD/1fXRCkEEqpQAXJJjHrKscSDgnW1Qe9/xZdl9VUsuo5\nGoXdO5dMBHU9qHuvMcfbjunD5JA3US6qszlBZe+s3u/AzAvSko5pJhTcVjTOWKeT\nNJVwWTNkkaWnOJvca7sNwfk3tv0Mtet03MC9WA36qKUPfL7lWwWbbz7bH+Y7Fc8Z\nKVIUdd1ECp9CQ+4/dOxSVSx4usLCPcbG3h7D297DRPlk7OMATmg1ol7gVsmSftet\nJ5yqk2otRkjvog4NaVFceMyKhFY5/ft014QuN0yKTErRxfza7sK1+59ZYkpj5Wd/\nnhhpIEKaZ1nwKUqbxx1IuQEn119T6vQ1K86qp3abzQKBgQDzmuYpaIpbJSZcP09E\nI8IcgisUxc/Nn43xi0UrCQ4Vk2EdBu54T3xrjgGxbamliXmeHMUxNEfAgiKqzrKK\nOPJU2HxVz4oXSbnMgC7zTmkFxahLumR1gSpsXPjTMtgDUajGUCL8z22I/2k+dyZc\nFCkoU7qW7ZeJudQhq0GflonTZQKBgQDSLvfphYdaMMpIr/X56N9KJRbGahPjIVCj\nCXnon+tF0k30Qhv6yaUq05u8FFembSFVXVtC1P42ior6P0UPW2jmShxqPD69f2bg\nkJikjZO3RCKWrv/WGBTi1LdcvqXYGa0NSmJssKMQpvO5IoNhL09+DGifRGY24IY0\ntXxbff86pQKBgQDHEx3mVwVCCPD5T8+COsqlq4ZzWlhAjJReAVdMHQFChodFRmXZ\nMfPWnV0q1xhdLCSUHqTTWgsM+gxEk9f59yGqTqQFKC6Ma3aH9XTo5noS+n1XLYJt\nOFon5i59wb4fsDsBnXmKKiU0YK1sG8jgVKVxzELelllRdugxf5eISGhntQKBgA0W\nkaeAAiKyoRYPpwCN6MGkN5vZZS2imHPeljHPK4ZohyQrrbRbNCbLkIoQtjiN2SKI\nsrMhskbRL8BPikxfg9O7T7Op1rpUIaLgPjEZA9bIrmK1uQaq7zoExvpGgOtJBgaq\n2CAui6jwzIJ9zLKTkJ6nxSgNyVOnfZPwrTLBUNBlAoGBAMtTyLvvkJdxqazdihk5\nMsx4mQfRBsDJVONqMJVt9WiusEKrU5gZaD6U7dsgwkSTxHTCT+6mUelxE+lA7AM+\n0Ds66kMC9qpqW4vQ3fUjs/PEOBXLztzJMz/3DoemWs6bH+QI3o7lIiQmDQLaaDIE\nxvACNTdG+RJO9g4Wa9Zi2ztN\n-----END PRIVATE KEY-----\n",
+  "client_email": "paul-rudeanu@licenta-242714.iam.gserviceaccount.com",
+  "client_id": "110797518460393383084",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/paul-rudeanu%40licenta-242714.iam.gserviceaccount.com"
+}
